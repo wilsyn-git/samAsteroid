@@ -5,6 +5,7 @@
 import pygame
 from constants import *
 from circleshape import *
+from player import *
 
 
 def main():
